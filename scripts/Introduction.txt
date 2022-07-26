@@ -1,0 +1,25 @@
+In this introduction you're going to learn from bottom to the top which are the key components to run shell scripts in your machine.
+
+What is Kernel?
+	- Interface between hardware and softeware.
+	  Program stored inside your Operating System.
+
+What is a Shell?
+	- Is the terminal that let us run commands.
+	  The commands are forwarded to kernel which have the responsibility to deliver these commands to th	      hardware and will be executed.
+	- Types GNOM, KDE.. sh, bash(Born Again Shell), csh, tcsh and KSH.
+
+Operating System
+	- In general terms the combination of Kernel and Shell create the OS.
+
+What is Shell Script?
+	- Instruction into the shell.
+
+How to run a Shell Script?
+
+
+
+
+
+
+
