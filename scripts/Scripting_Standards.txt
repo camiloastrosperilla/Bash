@@ -1,0 +1,9 @@
+Scripting Standards
+	- Scripts directory
+	- Script name should identify function
+	- Script should end with .shell
+	- You need to have a proper execution permissions
+	- Define Shell (#!/bin/bash)
+		- Variables
+		- Comments
+		- Statements..
